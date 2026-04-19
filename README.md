@@ -1,5 +1,3 @@
-<img width="1145" height="669" alt="image" src="https://github.com/user-attachments/assets/55e64851-a896-4172-afee-850e3611ace2" />Stock Master & Stock Dash
-
 A Comprehensive Suite for Stock Market Tracking, Analytics, and Portfolio Management (Built with Next.js) This repository features two robust stock market applications, meticulously crafted using Next.js, React, Tailwind CSS, and integrated with real-time stock APIs. Together, they serve as an indispensable toolkit for investors seeking to analyse stocks, manage their portfolios, and gain valuable insights.
 
 Core Features
